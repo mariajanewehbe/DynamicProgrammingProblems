@@ -1,0 +1,4 @@
+Item, weight, value
+bottle, 250, $2
+napkin, 10, $1
+binoculars, 600, $200
